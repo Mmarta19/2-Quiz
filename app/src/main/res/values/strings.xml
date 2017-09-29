@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="question_content">Whats is the capital of Spain?</string>
+    <string name="OK">Good Job!</string>
+    <string name="FAIL">You failed...</string>
+
+
+    <array name="answers">
+        <item>Barcelona</item>
+        <item>Madrid</item>
+        <item>Navarra</item>
+        <item>Cantovi</item>
+
+
+    </array>
+
+    <integer name="correct_answer">1</integer>
+
+
+</resources>
